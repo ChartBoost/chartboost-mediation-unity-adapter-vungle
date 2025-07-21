@@ -1,9 +1,14 @@
 # Changelog
 All notable changes to this project will be documented in this file using the standards as defined at [Keep a Changelog](https://keepachangelog.com/en/1.0.0/). This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0).
 
+### Version 5.0.2 *(2025-06-02)*
+This version of the Vungle Adapter supports the following native SDK dependencies:
+  * Android: `com.chartboost:chartboost-mediation-adapter-vungle:5.7.5.+`
+  * iOS: `ChartboostMediationAdapterVungle: ~> 5.7.4.0`
+
 ### Version 5.0.1 *(2024-10-23)*
 This version of the Vungle Adapter supports the following native SDK dependencies:
-  * Android: `com.chartboost:chartboost-mediation-adapter-vungle:chartboost-mediation-adapter-vungle:5.7.4.+`
+  * Android: `com.chartboost:chartboost-mediation-adapter-vungle:5.7.4.+`
   * iOS: `ChartboostMediationAdapterVungle: ~> 5.7.4.0`
 
 ### Version 5.0.0 *(2024-08-08)*

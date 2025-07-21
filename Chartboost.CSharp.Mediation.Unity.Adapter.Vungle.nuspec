@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>Chartboost.CSharp.Mediation.Unity.Adapter.Vungle</id>
-    <version>5.0.1</version>
+    <version>5.0.2</version>
     <title>Chartboost Mediation Adapter - Vungle</title>
     <description>The Chartboost Mediation Unity SDK Adapter for Vungle.</description>
     <authors>Chartboost</authors>
