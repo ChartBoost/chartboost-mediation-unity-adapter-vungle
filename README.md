@@ -12,7 +12,7 @@ In order to add the Chartboost Mediation Unity SDK - Vungle Adapter to your proj
 
 ```json
 "dependencies": {
-    "com.chartboost.mediation.unity.adapter.vungle": "5.0.2",
+    "com.chartboost.mediation.unity.adapter.vungle": "5.0.3",
     ...
 },
 "scopedRegistries": [
