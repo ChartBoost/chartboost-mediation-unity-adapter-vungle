@@ -1,6 +1,6 @@
 {
     "name": "com.chartboost.mediation.unity.adapter.vungle",
-    "version": "5.0.3",
+    "version": "5.0.4",
     "displayName": "Chartboost Mediation Adapter - Vungle",
     "description": "The Chartboost Mediation Unity SDK Adapter for Vungle.",
     "unity": "2022.3",
