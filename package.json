@@ -1,6 +1,6 @@
 {
     "name": "com.chartboost.mediation.unity.adapter.vungle",
-    "version": "5.0.6",
+    "version": "5.0.7",
     "license": "MIT",
     "displayName": "Chartboost Mediation Adapter - Vungle",
     "description": "The Chartboost Mediation Unity SDK Adapter for Vungle.",
